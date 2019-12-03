@@ -1,0 +1,5 @@
+plateNo='xy8940', make='Audi', model='a8', odoMeter=34890, availability=true noOfDoors=4, hybridFlag=false, vehicleType='Car'
+plateNo='ko3544', make='Honda', model='grace', odoMeter=232323, availability=false noOfDoors=2, hybridFlag=false, vehicleType='Car'
+plateNo='dp3482', make='Toyota', model='Prius', odoMeter=342223, availability=false noOfDoors=4, hybridFlag=true, vehicleType='Car'
+plateNo='qy4530', make='Yamaha', model='pulsar', odoMeter=23342, availability=true helmetGiven=true, bikeType='scooter', vehicleType='Motorbike'
+plateNo='rt5690', make='harley', model='davidson', odoMeter=6789, availability=true helmetGiven=false, bikeType='rehular', vehicleType='Motorbike'
